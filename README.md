@@ -112,7 +112,7 @@
 
 <br>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/dhananjaya-barik-8a05823b0">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
 </a>&nbsp;
 <!-- ↑ Replace YOUR_LINKEDIN with your LinkedIn profile slug -->
@@ -121,17 +121,17 @@
   <img src="https://img.shields.io/badge/GitHub-Dhananjaya--Dev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
 </a>&nbsp;
 
-<a href="https://twitter.com/YOUR_TWITTER">
+<a href="https://x.com/DhananjayaDev">
   <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X"/>
 </a>&nbsp;
 <!-- ↑ Replace YOUR_TWITTER -->
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/dhananjaya_dev_">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
 </a>&nbsp;
 <!-- ↑ Replace YOUR_INSTAGRAM -->
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:dhananjayabrk@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
 </a>
 <!-- ↑ Replace YOUR_EMAIL -->
@@ -148,22 +148,22 @@
 
 <br>
 
-<a href="https://leetcode.com/YOUR_LEETCODE">
+<a href="https://leetcode.com/Dhananjaya-Dev">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" alt="LeetCode"/>
 </a>&nbsp;
 <!-- ↑ Replace YOUR_LEETCODE with your LeetCode username -->
 
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK">
+<a href="https://www.hackerrank.com/dhananjaya_dev_">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=1a1a1a" alt="HackerRank"/>
 </a>&nbsp;
 <!-- ↑ Replace YOUR_HACKERRANK -->
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG">
+<a href="https://www.geeksforgeeks.org/user/dhananjayabarik">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a1a" alt="GeeksforGeeks"/>
 </a>&nbsp;
 <!-- ↑ Replace YOUR_GFG -->
 
-<a href="https://www.codechef.com/users/YOUR_CODECHEF">
+<a href="https://www.codechef.com/users/dhananjaya_dev">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a1a" alt="CodeChef"/>
 </a>
 <!-- ↑ Replace YOUR_CODECHEF -->

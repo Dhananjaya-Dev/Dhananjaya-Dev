@@ -112,7 +112,7 @@
 
 <br>
 
-<a href="www.linkedin.com/in/dhananjaya-barik-8a05823b0">
+<a href="www.linkedin.com/in/dhananjaya-barik">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
 </a>&nbsp;
 <!-- ↑ Replace YOUR_LINKEDIN with your LinkedIn profile slug -->

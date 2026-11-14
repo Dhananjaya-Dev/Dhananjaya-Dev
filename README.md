@@ -631,3 +631,17 @@ const dhananjaya = {
 ║    .github/workflows/snake.yml   ← copy YAML from snake section above       ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhananjaya-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dhananjaya's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhananjaya-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjaya-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>

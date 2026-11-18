@@ -606,13 +606,13 @@ const dhananjaya = {
 
 <!--
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  SETUP CHECKLIST — v4.0                                                      ║
-║  ─────────────────────────────────────────────────────────────────────────  ║
+║  SETUP CHECKLIST — v4.0                                                                    ║
+║  ─────────────────────────────────────────────────────────────────────────   ║
 ║  Social / contact links to replace:                                          ║
 ║    YOUR_LINKEDIN    → your LinkedIn profile slug                             ║
 ║    YOUR_TWITTER     → your X/Twitter handle                                  ║
 ║    YOUR_INSTAGRAM   → your Instagram handle                                  ║
-║    YOUR_EMAIL       → your                                 ║
+║    YOUR_EMAIL       → your                                                   ║
 ║                                                                              ║
 ║  Coding profiles to replace:                                                 ║
 ║    YOUR_LEETCODE    → your LeetCode username                                 ║
@@ -620,7 +620,7 @@ const dhananjaya = {
 ║    YOUR_GFG         → your GeeksforGeeks username                            ║
 ║    YOUR_CODECHEF    → your CodeChef username                                 ║
 ║                                                                              ║
-║  Featured project repos to update (replace with your actual repo names):    ║
+║  Featured project repos to update (replace with your actual repo names):     ║
 ║    ai-blood-bank-management  (keep if it exists)                             ║
 ║    portfolio-website                                                         ║
 ║    spring-boot-projects                                                      ║

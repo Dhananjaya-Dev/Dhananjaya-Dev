@@ -612,7 +612,7 @@ const dhananjaya = {
 ║    YOUR_LINKEDIN    → your LinkedIn profile slug                             ║
 ║    YOUR_TWITTER     → your X/Twitter handle                                  ║
 ║    YOUR_INSTAGRAM   → your Instagram handle                                  ║
-║    YOUR_EMAIL       → your email address                                     ║
+║    YOUR_EMAIL       → your                                 ║
 ║                                                                              ║
 ║  Coding profiles to replace:                                                 ║
 ║    YOUR_LEETCODE    → your LeetCode username                                 ║
